@@ -38,7 +38,7 @@ I'm a passionate data engineer with a curiosity for uncovering the mysteries of 
 While my resume provides a history of all the good stuff, like my qualifications, experience, and killer sense of humor. Okay, maybe not the last one, but it's worth a shot, right? There is considerably more to share, and I hope to arrange a time to meet to learn how to make an impact at HealthVerity given a chance. 
 
 # Let's have a Coffee Together!
-To know when to click the Coffee Machine Button Below :)
+To know when grab the cup from below :)
 
 <div align="center">
   <a href="https://calendly.com/aniketghadi50/15min" target="_blank"><img src="https://media.giphy.com/media/mCmCVbnEJ1s2xN4BYd/giphy.gif" alt="When" width="200" /></a>
