@@ -50,8 +50,6 @@ You can find my updated schedule here
 # ANIKET ANKUSH GHADI
 
 <div align="center">
-  <a href="mailto:aniketghadi50@gmail.com"><img src="https://img.shields.io/badge/Email-aniketghadi50%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=2bbc8a" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/aghadi/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"></a>
   <a href="https://calendly.com/aniketghadi50/15min" target="_blank"><img src="https://media.giphy.com/media/XzksrBBa7oXbS/giphy.gif" alt="Schedule a Coffee" height="30" width="40" /></a>
 </div>
 
