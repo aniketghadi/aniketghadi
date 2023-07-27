@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Aniket Ghadi</h1>
-<h3 align="center">**Who Am I? 🔭**
+<h3 align="center">Who Am I? 🔭
 
 I'm a passionate data engineer with a curiosity for uncovering the mysteries of data. I thrive in the realm of data pipelines, ETL processes, and data infrastructure. My mission is to harness the power of data to navigate the stars of success for individuals and businesses alike.</h3>
 
@@ -27,15 +27,6 @@ I'm a passionate data engineer with a curiosity for uncovering the mysteries of 
 - Databases: PostgreSQL 🐘, MySQL 🌊, MongoDB 🍃
 - Cloud Platforms: AWS ☁️, GCP 🌈
 - Tools: Airflow 🌬️, Luigi 🎩, Docker 🐳
-
-
-## Data Vision 📈
-
-My vision is to make the universe of data accessible to all, guiding others to navigate through the cosmos of information. Together, we'll embark on interstellar data voyages, unlocking the potential of data to enlighten and empower.
-
-## Reach Me 📡
-
-Found an exciting data anomaly or want to embark on a data engineering adventure? Feel free to shoot me a message, and let's navigate the data cosmos together! 🚀
 
 
 <h3 align="left">Connect with me:</h3>
@@ -54,4 +45,5 @@ To know when to click the Coffee Machine Button Below :)
 </div>
 
 See you on the other side,
+
 Aniket
