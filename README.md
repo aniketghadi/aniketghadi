@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Aniket Ghadi</h1>
-<h3 align="center">## Who Am I? 🔭
+<h3 align="center">**Who Am I? 🔭**
 
 I'm a passionate data engineer with a curiosity for uncovering the mysteries of data. I thrive in the realm of data pipelines, ETL processes, and data infrastructure. My mission is to harness the power of data to navigate the stars of success for individuals and businesses alike.</h3>
 
@@ -47,10 +47,13 @@ Found an exciting data anomaly or want to embark on a data engineering adventure
 While my resume provides a history of all the good stuff, like my qualifications, experience, and killer sense of humor. Okay, maybe not the last one, but it's worth a shot, right? There is considerably more to share, and I hope to arrange a time to meet to learn how to make an impact at HealthVerity given a chance. 
 
 You can find my updated schedule here
-# ANIKET ANKUSH GHADI
+# Let's have a Coffee Together!
 
 <div align="center">
-  <a href="https://calendly.com/aniketghadi50/15min" target="_blank"><img src="https://media.giphy.com/media/XzksrBBa7oXbS/giphy.gif" alt="Schedule a Coffee" height="30" width="40" /></a>
+  <a href="https://calendly.com/aniketghadi50/15min" target="_blank"><img src="https://media.giphy.com/media/8lhnWqlvLuWQ9TCQ23/giphy.gif" alt="When" height="100" width="100" /></a>
 </div>
 
+Fun Fact: I do have a mocha pot at home!
+
 May the data be with you! 🌌✨
+Aniket
