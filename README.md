@@ -24,7 +24,9 @@ I'm an enthusiastic data engineer who loves exploring the secrets hidden in data
 ## Toolbox 🛠️
 
 •	Programming Languages and ETL - Cloud Tools: SQL, Python, Bash, PowerShell, GIT, AWS, GCP, Azure, Informatica, Orange, SAP BODS
+
 •	Databases and Reporting Tools:  Oracle, SSMS, DynamoDB, BigQuery, Redshift, Tableau, SAP BO, Power BI, Looker	
+
 •	Miscellaneous:  Snowflake, Docker, Airflow, Kafka, Agile, JIRA, CI/CD, SAS, Service Now, Spark, Rest API
 
 
@@ -34,14 +36,13 @@ I'm an enthusiastic data engineer who loves exploring the secrets hidden in data
 <a href="https://www.hackerrank.com/learninaghadi?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="learninaghadi" height="30" width="40" /></a>
 </p>
 
-While my resume provides a history of all the good stuff, like my qualifications, experience, and killer sense of humor. Okay, maybe not the last one, but it's worth a shot, right? There is considerably more to share, and I hope to arrange a time to meet to learn how to make an impact at HealthVerity given a chance. 
+While my resume provides a history of all the good stuff, like my qualifications, experience, and killer sense of humor. Okay, maybe not the last one, but it's worth a shot, right? There is considerably more to share, and I hope to arrange a time to meet to learn how to make a positive impact as a Data Engineer given a chance. 
 
 # Let's have a Coffee Together!
-When? Grab the cup from below to know :)
+When? Grab the cup below & see you on the other side!
 
 <div align="center">
   <a href="https://calendly.com/aniketghadi50/15min" target="_blank"><img src="https://media.giphy.com/media/mCmCVbnEJ1s2xN4BYd/giphy.gif" alt="When" width="200" /></a>
 </div>
 
-See you on the other side,
-Aniket
+Stay Caffeinated ☕️☕️
