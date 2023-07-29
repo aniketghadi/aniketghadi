@@ -14,19 +14,18 @@
 <h1 align="center">Hi 👋, I'm Aniket Ghadi</h1>
 <h3 align="center">Who Am I? 🔭
 
-I'm a passionate data engineer with a curiosity for uncovering the mysteries of data. I thrive in the realm of data pipelines, ETL processes, and data infrastructure. My mission is to harness the power of data to navigate the stars of success for individuals and businesses alike.</h3>
+I'm an enthusiastic data engineer who loves exploring the secrets hidden in data. I specialize in creating data pipelines, managing ETL processes, and building strong data infrastructure. My ultimate goal is to use the magic of data to guide people and businesses toward shining success like stars in the sky. Let's embark on this exciting journey together! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketghadi&label=Profile%20views&color=0e75b6&style=flat" alt="aniketghadi" /> </p>
 
 ## Greetings, fellow explorers of data! 🚀
+“Without data, you are just another person with an opinion”
 
 ## Toolbox 🛠️
 
-- Languages: Python 🐍, SQL 🗃️, Scala 🚀
-- Big Data Technologies: Apache Spark 🌟, Hadoop 🏞️
-- Databases: PostgreSQL 🐘, MySQL 🌊, MongoDB 🍃
-- Cloud Platforms: AWS ☁️, GCP 🌈
-- Tools: Airflow 🌬️, Luigi 🎩, Docker 🐳
+•	Programming Languages and ETL - Cloud Tools: SQL, Python, Bash, PowerShell, GIT, AWS, GCP, Azure, Informatica, Orange, SAP BODS
+•	Databases and Reporting Tools:  Oracle, SSMS, DynamoDB, BigQuery, Redshift, Tableau, SAP BO, Power BI, Looker	
+•	Miscellaneous:  Snowflake, Docker, Airflow, Kafka, Agile, JIRA, CI/CD, SAS, Service Now, Spark, Rest API
 
 
 <h3 align="left">Connect with me:</h3>
@@ -38,12 +37,11 @@ I'm a passionate data engineer with a curiosity for uncovering the mysteries of 
 While my resume provides a history of all the good stuff, like my qualifications, experience, and killer sense of humor. Okay, maybe not the last one, but it's worth a shot, right? There is considerably more to share, and I hope to arrange a time to meet to learn how to make an impact at HealthVerity given a chance. 
 
 # Let's have a Coffee Together!
-To know when grab the cup from below :)
+When? Grab the cup from below to know :)
 
 <div align="center">
   <a href="https://calendly.com/aniketghadi50/15min" target="_blank"><img src="https://media.giphy.com/media/mCmCVbnEJ1s2xN4BYd/giphy.gif" alt="When" width="200" /></a>
 </div>
 
 See you on the other side,
-
 Aniket
